@@ -1,7 +1,7 @@
 {
   "name": "dental-service-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000d\u0000e\u0000n\u0000t\u0000a\u0000l\u0000-\u0000s\u0000e\u0000r\u0000v\u0000i\u0000c\u0000e\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,5 +17,13 @@
     "express": "^4.18.1",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeef-rahman/dental-service-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sayeef-rahman/dental-service-server/issues"
+  },
+  "homepage": "https://github.com/sayeef-rahman/dental-service-server#readme"
 }
